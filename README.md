@@ -22,8 +22,7 @@ RcRedes S.R.L is a trusted name in the generator industry, offering expert servi
 ## 🛠️ Tech Stack
 
 - HTML5, CSS3, JavaScript
-- [React / Vue / Astro, TaildwindCss]
-- Backend: [Node.js / PHP / or your backend stack]
+- [React / Vue / Astro / TaildwindCss]
 - Hosting: [GitHub Pages / Vercel / Netlify / etc.]
 
 ## 📂 Structure
@@ -38,7 +37,7 @@ RcRedes S.R.L is a trusted name in the generator industry, offering expert servi
 ## 📬 Contact
 
 For questions or collaborations, please reach out to us at:  
-📧 contacto@rcredessrl.com
+📧 dev: kidd.shugo@gmail.com
 
 ---
 
